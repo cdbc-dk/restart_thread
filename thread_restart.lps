@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="thread_restart.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="lfm_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="31"/>
+        <CursorPos X="36" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="28"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="1822"/>
+        <CursorPos X="15" Y="1829"/>
+        <UsageCount Value="10"/>
+        <Bookmarks Count="2">
+          <Item0 Y="1680" ID="1"/>
+          <Item1 X="9" Y="1707"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/tthread.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="250"/>
+        <CursorPos X="3" Y="255"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../echo_server/echo.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="4"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="783"/>
+        <CursorPos X="15" Y="793"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="15" Column="9" TopLine="7"/>
+      </Position1>
+      <Position2>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/classes.pp"/>
+        <Caret TopLine="28"/>
+      </Position2>
+      <Position3>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="46" Column="19" TopLine="43"/>
+      </Position3>
+      <Position4>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="350" Column="10" TopLine="338"/>
+      </Position4>
+      <Position5>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="352" Column="10" TopLine="340"/>
+      </Position5>
+      <Position6>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1707" Column="5" TopLine="1700"/>
+      </Position6>
+      <Position7>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1830" Column="19" TopLine="1826"/>
+      </Position7>
+      <Position8>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="17" Column="34" TopLine="7"/>
+      </Position8>
+      <Position9>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="12" Column="16" TopLine="5"/>
+      </Position9>
+      <Position10>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="17" Column="8" TopLine="7"/>
+      </Position10>
+      <Position11>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="68" TopLine="63"/>
+      </Position11>
+      <Position12>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="45" Column="17" TopLine="40"/>
+      </Position12>
+      <Position13>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="89" Column="5" TopLine="79"/>
+      </Position13>
+      <Position14>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="92" Column="56" TopLine="79"/>
+      </Position14>
+      <Position15>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="36" Column="19" TopLine="28"/>
+      </Position15>
+      <Position16>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="75" Column="3" TopLine="64"/>
+      </Position16>
+      <Position17>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1760" Column="14" TopLine="1754"/>
+      </Position17>
+      <Position18>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1754" Column="20" TopLine="1752"/>
+      </Position18>
+      <Position19>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/tthread.inc"/>
+        <Caret Line="285" Column="3" TopLine="274"/>
+      </Position19>
+      <Position20>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1829" Column="18" TopLine="1823"/>
+      </Position20>
+      <Position21>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/tthread.inc"/>
+        <Caret Line="255" Column="3" TopLine="250"/>
+      </Position21>
+      <Position22>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1820" Column="24" TopLine="1815"/>
+      </Position22>
+      <Position23>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/tthread.inc"/>
+        <Caret Line="255" Column="3" TopLine="250"/>
+      </Position23>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
